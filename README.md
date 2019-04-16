@@ -9,3 +9,8 @@ Read all texts inside the web page with *BeautifulSoup* and find most used words
     nltk.download()  
     ```  
 You can download all packages or packages you need.
+
+## web_scraping_selenium.py
+
+Getting html of a web page with selenium. Need geckodriver for Firefox. 
+
